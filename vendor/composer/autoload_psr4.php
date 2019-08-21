@@ -17,6 +17,8 @@ return array(
     'EasySwoole\\Trigger\\' => array($vendorDir . '/easyswoole/trigger/src'),
     'EasySwoole\\Spl\\Test\\' => array($vendorDir . '/easyswoole/spl/test'),
     'EasySwoole\\Spl\\' => array($vendorDir . '/easyswoole/spl/src'),
+    'EasySwoole\\Rpc\\Test\\' => array($vendorDir . '/easyswoole/rpc/test'),
+    'EasySwoole\\Rpc\\' => array($vendorDir . '/easyswoole/rpc/src'),
     'EasySwoole\\Log\\' => array($vendorDir . '/easyswoole/log/src'),
     'EasySwoole\\Http\\' => array($vendorDir . '/easyswoole/http/src'),
     'EasySwoole\\EasySwoole\\' => array($vendorDir . '/easyswoole/easyswoole/src'),

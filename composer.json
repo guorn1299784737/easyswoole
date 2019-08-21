@@ -1,5 +1,6 @@
 {
     "require": {
-        "easyswoole/easyswoole": "3.x-dev"
+        "easyswoole/easyswoole": "3.x-dev",
+        "easyswoole/rpc": "4.x"
     }
 }
